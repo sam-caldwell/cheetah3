@@ -3,3 +3,4 @@
 auditwheel
 wheel==0.31.1
 twine
+pygments>=2.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
