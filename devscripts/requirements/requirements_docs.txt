@@ -2,3 +2,4 @@
 
 Sphinx < 2.0; python_version == '2.7' or python_version == '3.4'
 Sphinx; python_version >= '3.5'
+pygments>=2.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
